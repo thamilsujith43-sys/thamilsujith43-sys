@@ -87,12 +87,9 @@ I'm passionate about transforming **raw data into meaningful insights** that sup
 
 ## 🤝 Let's Connect
 
-<p>
-  <a href="https://www.linkedin.com/in/[your-linkedin]">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white" />
-  </a>
 
-  <a href="mailto:[your-email]">
+
+  <a href="mailto:[thamilsujith43@gmail.com]">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?logo=gmail&logoColor=white" />
   </a>
 </p>
